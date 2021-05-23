@@ -25,7 +25,6 @@ if(name != 5){
 }else{
     console.log("False, name is 5");
 }
-
 for(i = 1; i <5; i++){
     console.log(i);
 }
