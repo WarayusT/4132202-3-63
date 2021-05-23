@@ -35,4 +35,3 @@ function Add(A,B) {
     c = A+B;
     return c;
 }
-
